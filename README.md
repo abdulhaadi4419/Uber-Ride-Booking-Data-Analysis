@@ -54,3 +54,5 @@ Fridays record the highest number of bookings, likely due to increased social ou
 Most users opt for short-distance trips, with a majority of rides covering around 10 km or less.
 
 These insights provide valuable understanding of Uber users' travel patterns, helping in optimizing service availability, pricing, and promotional strategies. 🚀
+ # Dataset 
+ https://github.com/abdulhaadi4419/Uber-Ride-Booking-Data-Analysis/blob/main/UberDataset.csv
